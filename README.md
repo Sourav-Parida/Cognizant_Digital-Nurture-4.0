@@ -9,10 +9,10 @@ This repository contains categorized hands-on tasks across three weeks of struct
 ## 📅 Week 1
 ### 🔧 Design Principles & Patterns
 
-| Filename                       | Name                                                  | Location                                                           |
-|--------------------------------|-------------------------------------------------------|--------------------------------------------------------------------|
-| Design Patterns and Principles | Exercise 1: Implementing the Singleton Pattern        | [Exercise 1 - Singleton Pattern](Week1/Design_Principles_and_Patterns/Exercise1_Singleton_Pattern/) |
-| Design Patterns and Principles | Exercise 2: Implementing the Factory Method Pattern   | `Week1/Design_Principles_and_Patterns/Exercise2_Factory_Method_Pattern` |
+| Filename                       | Name                                                  |
+|--------------------------------|-------------------------------------------------------|
+| Design Patterns and Principles | [Exercise 1: Implementing the Singleton Pattern](Week1/Design_Principles_and_Patterns/Exercise1_Singleton_Pattern/) |
+| Design Patterns and Principles | Exercise 2: Implementing the Factory Method Pattern   | `Week1/Design_Principles_and_Patterns/Exercise2_Factory_Method_Pattern/` |
 
 ### 🧠 Data Structures and Algorithms
 
