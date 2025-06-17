@@ -1,45 +1,43 @@
 # Cognizant_Digital-Nurture-4.0
 
-# 📚 3-Week Hands-On Project Repository
+# 📘 3-Week Hands-On Assignment Repository
 
-This repository contains structured hands-on exercises categorized by week and skill domain. Use the folder paths below to directly navigate to specific tasks.
+This repository contains categorized hands-on tasks across three weeks of structured learning. Each week focuses on different technical skills, with practical exercises and labs.
 
 ---
 
 ## 📅 Week 1
+### 🔧 Design Principles & Patterns
 
-### 🧩 Design Principles & Patterns
-
-| Exercise | Folder Path                                            | Description                          |
-|----------|--------------------------------------------------------|--------------------------------------|
-| 1        | `Week1/Design_Principles_and_Patterns/Exercise1_Singleton_Pattern`     | Implement Singleton Design Pattern   |
-| 2        | `Week1/Design_Principles_and_Patterns/Exercise2_Factory_Method_Pattern`| Implement Factory Method Pattern     |
+| Filename                       | Name                                                  | Location                                                           |
+|--------------------------------|-------------------------------------------------------|--------------------------------------------------------------------|
+| Design Patterns and Principles | Exercise 1: Implementing the Singleton Pattern        | `Week1/Design_Principles_and_Patterns/Exercise1_Singleton_Pattern` |
+| Design Patterns and Principles | Exercise 2: Implementing the Factory Method Pattern   | `Week1/Design_Principles_and_Patterns/Exercise2_Factory_Method_Pattern` |
 
 ### 🧠 Data Structures and Algorithms
 
-| Exercise | Folder Path                                                    | Description                                  |
-|----------|----------------------------------------------------------------|----------------------------------------------|
-| 2        | `Week1/Data_Structures_and_Algorithms/Exercise2_Ecommerce_Search`        | Build a search function for an e-commerce site |
-| 7        | `Week1/Data_Structures_and_Algorithms/Exercise7_Financial_Forecasting`   | Implement a forecasting algorithm            |
+| Filename                  | Name                                         | Location                                                            |
+|---------------------------|----------------------------------------------|---------------------------------------------------------------------|
+| Algorithms_Data Structures| Exercise 2: E-commerce Platform Search Function | `Week1/Data_Structures_and_Algorithms/Exercise2_Ecommerce_Search`   |
+| Algorithms_Data Structures| Exercise 7: Financial Forecasting           | `Week1/Data_Structures_and_Algorithms/Exercise7_Financial_Forecasting` |
 
 ---
 
 ## 📅 Week 2
-
 ### 🗃️ Advanced SQL
 
-| Exercise | Folder Path                                                              | Description                                      |
-|----------|---------------------------------------------------------------------------|--------------------------------------------------|
-| 1        | `Week2/Advanced_SQL/Exercise1_Ranking_Window_Functions`                  | Use of window functions and ranking              |
-| 2        | `Week2/Advanced_SQL/Exercise2_Create_Stored_Procedure`                   | Create a SQL stored procedure                    |
-| 5        | `Week2/Advanced_SQL/Exercise5_Return_Data_Stored_Procedure`              | Return and handle data from stored procedure     |
+| Filename                             | Name                                              | Location                                                                 |
+|--------------------------------------|---------------------------------------------------|--------------------------------------------------------------------------|
+| 1. SQL Exercise - Advanced concepts  | Exercise 1: Ranking and Window Functions          | `Week2/Advanced_SQL/Exercise1_Ranking_Window_Functions`                  |
+| 4. SQL Exercise - Stored procedure   | Exercise 1: Create a Stored Procedure             | `Week2/Advanced_SQL/Exercise2_Create_Stored_Procedure`                   |
+| 4. SQL Exercise - Stored procedure   | Exercise 5: Return Data from a Stored Procedure   | `Week2/Advanced_SQL/Exercise5_Return_Data_Stored_Procedure`              |
 
 ### 🧪 NUnit and Moq
 
-| Module | Folder Path                                 | Description                                 |
-|--------|---------------------------------------------|---------------------------------------------|
-| NUnit  | `Week2/NUnit_and_Moq/NUnit_HandsOn`         | Unit testing using NUnit                    |
-| Moq    | `Week2/NUnit_and_Moq/Moq_HandsOn`           | Mocking dependencies using Moq framework    |
+| Filename        | Name                              | Location                                 |
+|-----------------|-----------------------------------|------------------------------------------|
+| 1. NUnit-Handson| Hands-on in this document         | `Week2/NUnit_and_Moq/NUnit_HandsOn`      |
+| 1. Moq-Handson  | Write Testable Code with Moq      | `Week2/NUnit_and_Moq/Moq_HandsOn`        |
 
 ---
 
@@ -47,28 +45,12 @@ This repository contains structured hands-on exercises categorized by week and s
 
 ### 🔗 Entity Framework Core 8.0
 
-| Lab | Folder Path                                       | Description                                      |
-|-----|---------------------------------------------------|--------------------------------------------------|
-| 1   | `Week3/EF_Core_8.0/Lab1_ORM_Retail_Inventory`     | Understanding ORM with a retail inventory system |
-| 2   | `Week3/EF_Core_8.0/Lab2_Setup_DBContext`          | Set up the EF Core database context              |
-| 3   | `Week3/EF_Core_8.0/Lab3_EFCore_Migrations`        | Create and apply EF Core migrations              |
-| 4   | `Week3/EF_Core_8.0/Lab4_Insert_Initial_Data`      | Seed the database with initial data              |
-| 5   | `Week3/EF_Core_8.0/Lab5_Retrieve_Data`            | Perform read operations using EF Core            |
+| Filename       | Name                                                  | Location                                             |
+|----------------|-------------------------------------------------------|------------------------------------------------------|
+| EF Core 8.0 HOL| Lab 1: Understanding ORM with a Retail Inventory System | `Week3/EF_Core_8.0/Lab1_ORM_Retail_Inventory`         |
+| EF Core 8.0 HOL| Lab 2: Setting Up the Database Context for a Retail Store | `Week3/EF_Core_8.0/Lab2_Setup_DBContext`              |
+| EF Core 8.0 HOL| Lab 3: Using EF Core CLI to Create and Apply Migrations | `Week3/EF_Core_8.0/Lab3_EFCore_Migrations`            |
+| EF Core 8.0 HOL| Lab 4: Inserting Initial Data into the Database       | `Week3/EF_Core_8.0/Lab4_Insert_Initial_Data`          |
+| EF Core 8.0 HOL| Lab 5: Retrieving Data from the Database              | `Week3/EF_Core_8.0/Lab5_Retrieve_Data`                |
 
 ---
-
-## 🛠 Technologies Used
-
-- C# / .NET 8
-- NUnit & Moq
-- SQL Server (Advanced SQL)
-- Entity Framework Core 8.0
-
----
-
-## 🚀 Getting Started
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
