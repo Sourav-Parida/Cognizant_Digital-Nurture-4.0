@@ -1,7 +1,7 @@
 // LoggerTest.java
 public class LoggerTest {
     public static void main(String[] args) {
-        // Step 4: Retrieve logger instances
+        // Retrieve logger instances
         Logger logger1 = Logger.getInstance();
         Logger logger2 = Logger.getInstance();
 
