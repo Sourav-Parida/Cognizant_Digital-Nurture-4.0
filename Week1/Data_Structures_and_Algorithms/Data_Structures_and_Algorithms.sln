@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise2_Ecommerce_Search", "Exercise2_Ecommerce_Search\Exercise2_Ecommerce_Search.csproj", "{44938A96-C73D-429A-9A99-E2F7713E59E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise7_Financial_Forecasting", "Exercise7_Financial_Forecasting\Exercise7_Financial_Forecasting.csproj", "{362CFA22-30C1-42EF-975A-F9F353007090}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44938A96-C73D-429A-9A99-E2F7713E59E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44938A96-C73D-429A-9A99-E2F7713E59E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44938A96-C73D-429A-9A99-E2F7713E59E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44938A96-C73D-429A-9A99-E2F7713E59E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{362CFA22-30C1-42EF-975A-F9F353007090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{362CFA22-30C1-42EF-975A-F9F353007090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{362CFA22-30C1-42EF-975A-F9F353007090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{362CFA22-30C1-42EF-975A-F9F353007090}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B331696-DC72-45FC-B109-7C0FB118BA51}
+	EndGlobalSection
+EndGlobal

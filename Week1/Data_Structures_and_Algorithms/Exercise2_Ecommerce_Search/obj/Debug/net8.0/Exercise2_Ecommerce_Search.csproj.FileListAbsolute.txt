@@ -1,0 +1,15 @@
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Data_Structures_and_Algorithms\Exercise2_Ecommerce_Search\bin\Debug\net8.0\Exercise2_Ecommerce_Search.exe
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Data_Structures_and_Algorithms\Exercise2_Ecommerce_Search\bin\Debug\net8.0\Exercise2_Ecommerce_Search.deps.json
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Data_Structures_and_Algorithms\Exercise2_Ecommerce_Search\bin\Debug\net8.0\Exercise2_Ecommerce_Search.runtimeconfig.json
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Data_Structures_and_Algorithms\Exercise2_Ecommerce_Search\bin\Debug\net8.0\Exercise2_Ecommerce_Search.dll
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Data_Structures_and_Algorithms\Exercise2_Ecommerce_Search\bin\Debug\net8.0\Exercise2_Ecommerce_Search.pdb
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Data_Structures_and_Algorithms\Exercise2_Ecommerce_Search\obj\Debug\net8.0\Exercise2_Ecommerce_Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Data_Structures_and_Algorithms\Exercise2_Ecommerce_Search\obj\Debug\net8.0\Exercise2_Ecommerce_Search.AssemblyInfoInputs.cache
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Data_Structures_and_Algorithms\Exercise2_Ecommerce_Search\obj\Debug\net8.0\Exercise2_Ecommerce_Search.AssemblyInfo.cs
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Data_Structures_and_Algorithms\Exercise2_Ecommerce_Search\obj\Debug\net8.0\Exercise2_Ecommerce_Search.csproj.CoreCompileInputs.cache
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Data_Structures_and_Algorithms\Exercise2_Ecommerce_Search\obj\Debug\net8.0\Exercise2_Ecommerce_Search.sourcelink.json
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Data_Structures_and_Algorithms\Exercise2_Ecommerce_Search\obj\Debug\net8.0\Exercise2_Ecommerce_Search.dll
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Data_Structures_and_Algorithms\Exercise2_Ecommerce_Search\obj\Debug\net8.0\refint\Exercise2_Ecommerce_Search.dll
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Data_Structures_and_Algorithms\Exercise2_Ecommerce_Search\obj\Debug\net8.0\Exercise2_Ecommerce_Search.pdb
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Data_Structures_and_Algorithms\Exercise2_Ecommerce_Search\obj\Debug\net8.0\Exercise2_Ecommerce_Search.genruntimeconfig.cache
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Data_Structures_and_Algorithms\Exercise2_Ecommerce_Search\obj\Debug\net8.0\ref\Exercise2_Ecommerce_Search.dll

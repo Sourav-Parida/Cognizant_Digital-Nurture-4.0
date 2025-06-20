@@ -1,0 +1,15 @@
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Design_Principles_and_Patterns\Exe2-Implementing_the_Factory_Method_Pattern\obj\Debug\net8.0\Exe2-Implementing_the_Factory_Method_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Design_Principles_and_Patterns\Exe2-Implementing_the_Factory_Method_Pattern\obj\Debug\net8.0\Exe2-Implementing_the_Factory_Method_Pattern.AssemblyInfoInputs.cache
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Design_Principles_and_Patterns\Exe2-Implementing_the_Factory_Method_Pattern\obj\Debug\net8.0\Exe2-Implementing_the_Factory_Method_Pattern.AssemblyInfo.cs
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Design_Principles_and_Patterns\Exe2-Implementing_the_Factory_Method_Pattern\obj\Debug\net8.0\Exe2-Implementing_the_Factory_Method_Pattern.csproj.CoreCompileInputs.cache
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Design_Principles_and_Patterns\Exe2-Implementing_the_Factory_Method_Pattern\obj\Debug\net8.0\Exe2-Implementing_the_Factory_Method_Pattern.sourcelink.json
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Design_Principles_and_Patterns\Exe2-Implementing_the_Factory_Method_Pattern\bin\Debug\net8.0\Exe2-Implementing_the_Factory_Method_Pattern.exe
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Design_Principles_and_Patterns\Exe2-Implementing_the_Factory_Method_Pattern\bin\Debug\net8.0\Exe2-Implementing_the_Factory_Method_Pattern.deps.json
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Design_Principles_and_Patterns\Exe2-Implementing_the_Factory_Method_Pattern\bin\Debug\net8.0\Exe2-Implementing_the_Factory_Method_Pattern.runtimeconfig.json
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Design_Principles_and_Patterns\Exe2-Implementing_the_Factory_Method_Pattern\bin\Debug\net8.0\Exe2-Implementing_the_Factory_Method_Pattern.dll
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Design_Principles_and_Patterns\Exe2-Implementing_the_Factory_Method_Pattern\bin\Debug\net8.0\Exe2-Implementing_the_Factory_Method_Pattern.pdb
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Design_Principles_and_Patterns\Exe2-Implementing_the_Factory_Method_Pattern\obj\Debug\net8.0\Exe2-Implementing_the_Factory_Method_Pattern.dll
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Design_Principles_and_Patterns\Exe2-Implementing_the_Factory_Method_Pattern\obj\Debug\net8.0\refint\Exe2-Implementing_the_Factory_Method_Pattern.dll
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Design_Principles_and_Patterns\Exe2-Implementing_the_Factory_Method_Pattern\obj\Debug\net8.0\Exe2-Implementing_the_Factory_Method_Pattern.pdb
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Design_Principles_and_Patterns\Exe2-Implementing_the_Factory_Method_Pattern\obj\Debug\net8.0\Exe2-Implementing_the_Factory_Method_Pattern.genruntimeconfig.cache
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Design_Principles_and_Patterns\Exe2-Implementing_the_Factory_Method_Pattern\obj\Debug\net8.0\ref\Exe2-Implementing_the_Factory_Method_Pattern.dll

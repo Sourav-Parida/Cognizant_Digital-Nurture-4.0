@@ -1,0 +1,15 @@
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Data_Structures_and_Algorithms\Exercise7_Financial_Forecasting\bin\Debug\net8.0\Exercise7_Financial_Forecasting.exe
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Data_Structures_and_Algorithms\Exercise7_Financial_Forecasting\bin\Debug\net8.0\Exercise7_Financial_Forecasting.deps.json
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Data_Structures_and_Algorithms\Exercise7_Financial_Forecasting\bin\Debug\net8.0\Exercise7_Financial_Forecasting.runtimeconfig.json
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Data_Structures_and_Algorithms\Exercise7_Financial_Forecasting\bin\Debug\net8.0\Exercise7_Financial_Forecasting.dll
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Data_Structures_and_Algorithms\Exercise7_Financial_Forecasting\bin\Debug\net8.0\Exercise7_Financial_Forecasting.pdb
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Data_Structures_and_Algorithms\Exercise7_Financial_Forecasting\obj\Debug\net8.0\Exercise7_Financial_Forecasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Data_Structures_and_Algorithms\Exercise7_Financial_Forecasting\obj\Debug\net8.0\Exercise7_Financial_Forecasting.AssemblyInfoInputs.cache
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Data_Structures_and_Algorithms\Exercise7_Financial_Forecasting\obj\Debug\net8.0\Exercise7_Financial_Forecasting.AssemblyInfo.cs
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Data_Structures_and_Algorithms\Exercise7_Financial_Forecasting\obj\Debug\net8.0\Exercise7_Financial_Forecasting.csproj.CoreCompileInputs.cache
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Data_Structures_and_Algorithms\Exercise7_Financial_Forecasting\obj\Debug\net8.0\Exercise7_Financial_Forecasting.sourcelink.json
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Data_Structures_and_Algorithms\Exercise7_Financial_Forecasting\obj\Debug\net8.0\Exercise7_Financial_Forecasting.dll
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Data_Structures_and_Algorithms\Exercise7_Financial_Forecasting\obj\Debug\net8.0\refint\Exercise7_Financial_Forecasting.dll
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Data_Structures_and_Algorithms\Exercise7_Financial_Forecasting\obj\Debug\net8.0\Exercise7_Financial_Forecasting.pdb
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Data_Structures_and_Algorithms\Exercise7_Financial_Forecasting\obj\Debug\net8.0\Exercise7_Financial_Forecasting.genruntimeconfig.cache
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Data_Structures_and_Algorithms\Exercise7_Financial_Forecasting\obj\Debug\net8.0\ref\Exercise7_Financial_Forecasting.dll

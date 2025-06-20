@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CODEs\\Cognizant_Digital-Nurture-4.0\\Week1\\Data_Structures_and_Algorithms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{362CFA22-30C1-42EF-975A-F9F353007090}|Exercise7_Financial_Forecasting\\Exercise7_Financial_Forecasting.csproj|c:\\codes\\cognizant_digital-nurture-4.0\\week1\\data_structures_and_algorithms\\exercise7_financial_forecasting\\exercise7_longanswer.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{362CFA22-30C1-42EF-975A-F9F353007090}|Exercise7_Financial_Forecasting\\Exercise7_Financial_Forecasting.csproj|solutionrelative:exercise7_financial_forecasting\\exercise7_longanswer.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362CFA22-30C1-42EF-975A-F9F353007090}|Exercise7_Financial_Forecasting\\Exercise7_Financial_Forecasting.csproj|c:\\codes\\cognizant_digital-nurture-4.0\\week1\\data_structures_and_algorithms\\exercise7_financial_forecasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362CFA22-30C1-42EF-975A-F9F353007090}|Exercise7_Financial_Forecasting\\Exercise7_Financial_Forecasting.csproj|solutionrelative:exercise7_financial_forecasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44938A96-C73D-429A-9A99-E2F7713E59E8}|Exercise2_Ecommerce_Search\\Exercise2_Ecommerce_Search.csproj|c:\\codes\\cognizant_digital-nurture-4.0\\week1\\data_structures_and_algorithms\\exercise2_ecommerce_search\\descriptive - exe2_ecommerce_search.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{44938A96-C73D-429A-9A99-E2F7713E59E8}|Exercise2_Ecommerce_Search\\Exercise2_Ecommerce_Search.csproj|solutionrelative:exercise2_ecommerce_search\\descriptive - exe2_ecommerce_search.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercise7_Longanswer.txt",
+              "DocumentMoniker": "C:\\CODEs\\Cognizant_Digital-Nurture-4.0\\Week1\\Data_Structures_and_Algorithms\\Exercise7_Financial_Forecasting\\Exercise7_Longanswer.txt",
+              "RelativeDocumentMoniker": "Exercise7_Financial_Forecasting\\Exercise7_Longanswer.txt",
+              "ToolTip": "C:\\CODEs\\Cognizant_Digital-Nurture-4.0\\Week1\\Data_Structures_and_Algorithms\\Exercise7_Financial_Forecasting\\Exercise7_Longanswer.txt",
+              "RelativeToolTip": "Exercise7_Financial_Forecasting\\Exercise7_Longanswer.txt",
+              "ViewState": "AgIAADYAAAAAAAAAAAAUwF8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-20T15:21:21.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CODEs\\Cognizant_Digital-Nurture-4.0\\Week1\\Data_Structures_and_Algorithms\\Exercise7_Financial_Forecasting\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise7_Financial_Forecasting\\Program.cs",
+              "ToolTip": "C:\\CODEs\\Cognizant_Digital-Nurture-4.0\\Week1\\Data_Structures_and_Algorithms\\Exercise7_Financial_Forecasting\\Program.cs",
+              "RelativeToolTip": "Exercise7_Financial_Forecasting\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T15:20:04.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Descriptive - Exe2_Ecommerce_Search.txt",
+              "DocumentMoniker": "C:\\CODEs\\Cognizant_Digital-Nurture-4.0\\Week1\\Data_Structures_and_Algorithms\\Exercise2_Ecommerce_Search\\Descriptive - Exe2_Ecommerce_Search.txt",
+              "RelativeDocumentMoniker": "Exercise2_Ecommerce_Search\\Descriptive - Exe2_Ecommerce_Search.txt",
+              "ToolTip": "C:\\CODEs\\Cognizant_Digital-Nurture-4.0\\Week1\\Data_Structures_and_Algorithms\\Exercise2_Ecommerce_Search\\Descriptive - Exe2_Ecommerce_Search.txt",
+              "RelativeToolTip": "Exercise2_Ecommerce_Search\\Descriptive - Exe2_Ecommerce_Search.txt",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAUwDgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-20T15:19:36.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exe2-Implementing_the_Factory_Method_Pattern", "Exe2-Implementing_the_Factory_Method_Pattern\Exe2-Implementing_the_Factory_Method_Pattern.csproj", "{E31EAFF6-0EEF-42C5-819C-1D6F07119D6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exe1_Singleton_Pattern", "Exe1_Singleton_Pattern\Exe1_Singleton_Pattern.csproj", "{29BB7924-256B-4EA7-ACED-AB4DE543379F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E31EAFF6-0EEF-42C5-819C-1D6F07119D6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E31EAFF6-0EEF-42C5-819C-1D6F07119D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E31EAFF6-0EEF-42C5-819C-1D6F07119D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E31EAFF6-0EEF-42C5-819C-1D6F07119D6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29BB7924-256B-4EA7-ACED-AB4DE543379F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29BB7924-256B-4EA7-ACED-AB4DE543379F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29BB7924-256B-4EA7-ACED-AB4DE543379F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29BB7924-256B-4EA7-ACED-AB4DE543379F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41E03E9B-1DE2-454E-AD85-233894E65744}
+	EndGlobalSection
+EndGlobal

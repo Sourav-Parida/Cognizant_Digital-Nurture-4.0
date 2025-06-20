@@ -1,0 +1,15 @@
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Design_Principles_and_Patterns\Exe1_Singleton_Pattern\bin\Debug\net8.0\Exe1_Singleton_Pattern.exe
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Design_Principles_and_Patterns\Exe1_Singleton_Pattern\bin\Debug\net8.0\Exe1_Singleton_Pattern.deps.json
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Design_Principles_and_Patterns\Exe1_Singleton_Pattern\bin\Debug\net8.0\Exe1_Singleton_Pattern.runtimeconfig.json
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Design_Principles_and_Patterns\Exe1_Singleton_Pattern\bin\Debug\net8.0\Exe1_Singleton_Pattern.dll
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Design_Principles_and_Patterns\Exe1_Singleton_Pattern\bin\Debug\net8.0\Exe1_Singleton_Pattern.pdb
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Design_Principles_and_Patterns\Exe1_Singleton_Pattern\obj\Debug\net8.0\Exe1_Singleton_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Design_Principles_and_Patterns\Exe1_Singleton_Pattern\obj\Debug\net8.0\Exe1_Singleton_Pattern.AssemblyInfoInputs.cache
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Design_Principles_and_Patterns\Exe1_Singleton_Pattern\obj\Debug\net8.0\Exe1_Singleton_Pattern.AssemblyInfo.cs
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Design_Principles_and_Patterns\Exe1_Singleton_Pattern\obj\Debug\net8.0\Exe1_Singleton_Pattern.csproj.CoreCompileInputs.cache
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Design_Principles_and_Patterns\Exe1_Singleton_Pattern\obj\Debug\net8.0\Exe1_Singleton_Pattern.sourcelink.json
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Design_Principles_and_Patterns\Exe1_Singleton_Pattern\obj\Debug\net8.0\Exe1_Singleton_Pattern.dll
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Design_Principles_and_Patterns\Exe1_Singleton_Pattern\obj\Debug\net8.0\refint\Exe1_Singleton_Pattern.dll
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Design_Principles_and_Patterns\Exe1_Singleton_Pattern\obj\Debug\net8.0\Exe1_Singleton_Pattern.pdb
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Design_Principles_and_Patterns\Exe1_Singleton_Pattern\obj\Debug\net8.0\Exe1_Singleton_Pattern.genruntimeconfig.cache
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week1\Design_Principles_and_Patterns\Exe1_Singleton_Pattern\obj\Debug\net8.0\ref\Exe1_Singleton_Pattern.dll
