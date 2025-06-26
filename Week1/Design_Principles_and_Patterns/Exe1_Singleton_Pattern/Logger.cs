@@ -12,7 +12,7 @@ public class Logger
     private Logger()
     {
         Console.WriteLine("Logger instance created.");
-    }
+    } 
 
     // Public static method to get the singleton instance
     public static Logger GetInstance()
