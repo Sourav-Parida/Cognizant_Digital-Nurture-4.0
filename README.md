@@ -21,7 +21,7 @@ This repository contains categorized hands-on tasks across three weeks of struct
 
 | Topic         | Filename                             | Name                                                                 |
 |----------------|--------------------------------------|----------------------------------------------------------------------|
-| Advanced SQL   | 1. SQL Exercise - Advanced concepts  | [Exercise 1: Ranking and Window Functions](Week2/Advanced_SQL/Exercise1_Ranking_Window_Functions/) |
+| Advanced SQL   | 1. SQL Exercise - Advanced concepts  | [Exercise 1: Ranking and Window Functions](Week2/Advanced_SQL/Exe1-Ranking Window Functions/) |
 | Advanced SQL   | 4. SQL Exercise - Stored procedure   | [Exercise 1: Create a Stored Procedure](Week2/Advanced_SQL/Exercise2_Create_Stored_Procedure/) |
 | Advanced SQL   | 4. SQL Exercise - Stored procedure   | [Exercise 5: Return Data from a Stored Procedure](Week2/Advanced_SQL/Exercise5_Return_Data_Stored_Procedure/) |
 | NUnit and Moq  | 1. NUnit-Handson                     | [Hands-on in this document](Week2/NUnit_and_Moq/NUnit_HandsOn/)     |
