@@ -1,0 +1,42 @@
+Exercise 1: Ranking and Window Functions
+ Goal: Use ROW_NUMBER(), RANK(), DENSE_RANK(), OVER(), and PARTITION BY.
+ Scenario:
+ Find the top 3 most expensive products in each category using different ranking functions.
+ Steps:
+ 1. Use ROW_NUMBER() to assign a unique rank within each category.
+ 2. Use RANK() and DENSE_RANK() to compare how ties are handled.
+ 3. Use PARTITION BY Category and ORDER BY Price DESC.
+
+ 
+
+ Solution:-
+
+ 1: Using ROW_NUMBER()
+
+SELECT *
+FROM (
+    SELECT *,
+           ROW_NUMBER() OVER (PARTITION BY Category ORDER BY Price DESC) AS RowNum
+    FROM Products
+) AS RankedProducts
+WHERE RowNum <= 3;
+
+ 2: Using RANK()
+
+SELECT *
+FROM (
+    SELECT *,
+           RANK() OVER (PARTITION BY Category ORDER BY Price DESC) AS RankNum
+    FROM Products
+) AS RankedProducts
+WHERE RankNum <= 3;
+
+3: Using DENSE_RANK()
+
+SELECT *
+FROM (
+    SELECT *,
+           DENSE_RANK() OVER (PARTITION BY Category ORDER BY Price DESC) AS DenseRankNum
+    FROM Products
+) AS RankedProducts
+WHERE DenseRankNum <= 3;
