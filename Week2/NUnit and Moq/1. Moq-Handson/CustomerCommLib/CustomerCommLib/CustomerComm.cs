@@ -2,7 +2,7 @@
 {
     public class CustomerComm
     {
-        private readonly IMailSender _mailSender;
+        private IMailSender _mailSender;
 
         public CustomerComm(IMailSender mailSender)
         {
@@ -11,11 +11,9 @@
 
         public bool SendMailToCustomer()
         {
-            string address = "cust123@abc.com";
+            string to = "cust123@abc.com";
             string message = "Some Message";
-
-            _mailSender.SendMail(address, message);
-
+            _mailSender.SendMail(to, message);
             return true;
         }
     }

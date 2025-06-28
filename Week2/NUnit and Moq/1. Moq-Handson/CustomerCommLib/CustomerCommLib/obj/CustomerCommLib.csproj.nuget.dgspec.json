@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CODEs\\Cognizant_Digital-Nurture-4.0\\Week2\\NUnit and Moq\\CustomerCommLib\\CustomerCommLib\\CustomerCommLib.csproj": {}
+    "C:\\CODEs\\Cognizant_Digital-Nurture-4.0\\Week2\\NUnit and Moq\\1. Moq-Handson\\CustomerCommLib\\CustomerCommLib\\CustomerCommLib.csproj": {}
   },
   "projects": {
-    "C:\\CODEs\\Cognizant_Digital-Nurture-4.0\\Week2\\NUnit and Moq\\CustomerCommLib\\CustomerCommLib\\CustomerCommLib.csproj": {
+    "C:\\CODEs\\Cognizant_Digital-Nurture-4.0\\Week2\\NUnit and Moq\\1. Moq-Handson\\CustomerCommLib\\CustomerCommLib\\CustomerCommLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CODEs\\Cognizant_Digital-Nurture-4.0\\Week2\\NUnit and Moq\\CustomerCommLib\\CustomerCommLib\\CustomerCommLib.csproj",
+        "projectUniqueName": "C:\\CODEs\\Cognizant_Digital-Nurture-4.0\\Week2\\NUnit and Moq\\1. Moq-Handson\\CustomerCommLib\\CustomerCommLib\\CustomerCommLib.csproj",
         "projectName": "CustomerCommLib",
-        "projectPath": "C:\\CODEs\\Cognizant_Digital-Nurture-4.0\\Week2\\NUnit and Moq\\CustomerCommLib\\CustomerCommLib\\CustomerCommLib.csproj",
+        "projectPath": "C:\\CODEs\\Cognizant_Digital-Nurture-4.0\\Week2\\NUnit and Moq\\1. Moq-Handson\\CustomerCommLib\\CustomerCommLib\\CustomerCommLib.csproj",
         "packagesPath": "C:\\Users\\KIIT\\.nuget\\packages\\",
-        "outputPath": "C:\\CODEs\\Cognizant_Digital-Nurture-4.0\\Week2\\NUnit and Moq\\CustomerCommLib\\CustomerCommLib\\obj\\",
+        "outputPath": "C:\\CODEs\\Cognizant_Digital-Nurture-4.0\\Week2\\NUnit and Moq\\1. Moq-Handson\\CustomerCommLib\\CustomerCommLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

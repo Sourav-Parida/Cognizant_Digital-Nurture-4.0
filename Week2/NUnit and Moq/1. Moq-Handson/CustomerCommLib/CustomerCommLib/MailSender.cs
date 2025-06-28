@@ -7,10 +7,7 @@ namespace CustomerCommLib
     {
         bool SendMail(string toAddress, string message);
     }
-}
 
-namespace CustomerCommLib
-{
     public class MailSender : IMailSender
     {
         public bool SendMail(string toAddress, string message)
@@ -29,8 +26,7 @@ namespace CustomerCommLib
 
             SmtpServer.Send(mail);
 
-            return true;
+            return true; // return to satisfy the interface
         }
     }
 }
-
