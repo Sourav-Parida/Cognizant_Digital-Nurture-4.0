@@ -33,6 +33,7 @@ This repository contains categorized hands-on tasks across three weeks of struct
 
 | Topic                   | Filename         | Name                                                                 |
 |------------------------|------------------|----------------------------------------------------------------------|
-| Entity Framework Core 8.0 | EF Core 8.0 HOL | [Lab 1 - Lab 5: Retail Inventory System](Week3/RetailInventory) |
+| Entity Framework Core 8.0 | EF Core 8.0 HOL | [Lab 1 - Lab 5: Retail Inventory System(Program-code)](Week3/RetailInventory) |
+| Entity Framework Core 8.0 | EF Core 8.0 HOL | [Output - Pics](Week3/Output/) |
 
 ---
