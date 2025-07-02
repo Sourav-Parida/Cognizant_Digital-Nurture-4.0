@@ -33,10 +33,6 @@ This repository contains categorized hands-on tasks across three weeks of struct
 
 | Topic                   | Filename         | Name                                                                 |
 |------------------------|------------------|----------------------------------------------------------------------|
-| Entity Framework Core 8.0 | EF Core 8.0 HOL | [Lab 1: Understanding ORM with a Retail Inventory System](Week3/EF_Core_8.0/Lab1_ORM_Retail_Inventory/) |
-| Entity Framework Core 8.0 | EF Core 8.0 HOL | [Lab 2: Setting Up the Database Context for a Retail Store](Week3/EF_Core_8.0/Lab2_Setup_DBContext/) |
-| Entity Framework Core 8.0 | EF Core 8.0 HOL | [Lab 3: Using EF Core CLI to Create and Apply Migrations](Week3/EF_Core_8.0/Lab3_EFCore_Migrations/) |
-| Entity Framework Core 8.0 | EF Core 8.0 HOL | [Lab 4: Inserting Initial Data into the Database](Week3/EF_Core_8.0/Lab4_Insert_Initial_Data/) |
-| Entity Framework Core 8.0 | EF Core 8.0 HOL | [Lab 5: Retrieving Data from the Database](Week3/EF_Core_8.0/Lab5_Retrieve_Data/) |
+| Entity Framework Core 8.0 | EF Core 8.0 HOL | [Lab 1 - Lab 5: Retail Inventory System](Week3/RetailInventory) |
 
 ---
